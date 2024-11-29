@@ -1,0 +1,6 @@
+aiogram
+asyncpg
+telethon
+loguru
+psycopg2-binary
+tabulate
